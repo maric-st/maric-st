@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Stefan 👋
+
+- 🔭 I’m currently working on Unbounce projects
+- 🌱 Learning anything I can get my hands on!
+- 👯 Always looking to collaborate
+- 💬 Ask me about anything
+- 📫 How to reach me: [Email](mailto:stefanmaric.zr@gmail.com)
 
 <!--
 **maric-st/maric-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
